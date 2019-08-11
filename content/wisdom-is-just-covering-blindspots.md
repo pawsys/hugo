@@ -6,6 +6,7 @@ draft: false
 priority: 2
 
 authors: Charlie Munger
+collection: idea
 types: idea
 ---
 

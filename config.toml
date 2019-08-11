@@ -5,15 +5,17 @@ author = "Pawel Sysiak"
 # description = "Pawel Sysiak blog"
 
 [taxonomies]
+  collection = "collections"
+# old
   link = "links"
   impact = "impacts"
   craft = "crafts"
   img = "images"
   priority = "priorities"
-  type = "types" #deprecate
   author = "authors"
   title = "title"
   subtitle = "subtitles"
+  type = "types"
 
 # My stuff
 enableEmoji = "true"

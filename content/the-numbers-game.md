@@ -7,6 +7,7 @@ img:
 date: 2019-05-02T11:20:02-07:00
 
 priority: 3
+collection: link
 types: link
 tag: "link"
 

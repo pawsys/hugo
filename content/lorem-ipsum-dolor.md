@@ -1,12 +1,12 @@
 ---
 title: "Lorem Ipsum Dolor"
-subtitle: "Ea vix facilisis rationibus incorrupte, delenit ratio nibus mnesarchum ad quo.
-"
+subtitle: "Ea vix facilisis rationibus incorrupte, delenit ratio nibus mnesarchum ad quo."
 img:
 date: 2019-05-02T11:40:12-07:00
 draft: true
 priority: 3
 
+collection: text
 type: text
 ---
 
