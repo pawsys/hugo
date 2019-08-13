@@ -6,7 +6,7 @@ date: 2019-05-02T11:40:12-07:00
 draft: true
 priority: 3
 
-collection: text
+collections: text
 type: text
 ---
 

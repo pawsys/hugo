@@ -7,7 +7,7 @@ types: idea
 authors: "Charlie Munger"
 img:
 priority: 1
-collection: text
+collections: text
 type: #deprecate
 ---
 

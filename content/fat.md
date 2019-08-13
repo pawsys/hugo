@@ -3,7 +3,7 @@ title: "Fat"
 date: 2019-05-01T15:52:24-07:00
 draft: false
 
-collection: idea
+collections: idea
 subtitles:
 images:
 priorities: "1"

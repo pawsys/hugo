@@ -5,7 +5,7 @@ img:
 date: 2019-05-02T11:48:28-07:00
 draft: false
 priority: 1
-collection: link
+collections: link
 types: link
 
 #link specific
