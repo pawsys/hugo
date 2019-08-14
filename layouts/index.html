@@ -12,10 +12,10 @@
         </ul>
   {{range .Pages}}
     <div class="mt-16">
-        {{if in .Params.collection "link"}}
-          {{partial "listLink" .}}
-        {{else}}
-          {{partial "listDefault" .}}
+        {{if in .Params.collections "text"}}
+          {{partial "listDefault" .}}  
+        {{else if in .Params.collections "link"}}
+        {{partial "listLink" .}}
         {{end}}
     </div>
   {{end}}

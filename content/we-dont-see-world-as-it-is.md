@@ -1,5 +1,5 @@
 ---
-title: "Wisdom is is just covering blindspots in your mentalmodel map of knowledge"
+title: "We don't see world as it is but as we are"
 date: 2019-05-02T12:35:24-07:00
 draft: false
 
@@ -7,7 +7,9 @@ types: idea
 authors: "Charlie Munger"
 img:
 priority: 1
-collections: text
+collections:
+- text
+- link
 type: #deprecate
 ---
 
